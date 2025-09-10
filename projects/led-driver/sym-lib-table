@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Longracks)
+       (type Legacy)
+       (uri ${KIPRJMOD}/../libs/symbols/Longracks.kicad_sym)
+       (options "")
+       (descr "Longracks custom symbols"))
+)
