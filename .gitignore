@@ -1,4 +1,31 @@
-*.zip
+# KiCad autosave and backup files
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_sch-bck
+*.kicad_pcb-bck
+.kicad_autosave*
+*~
+
+# Project local cache
+fp-info-cache
+
+# Backup folders
+*-backups/
+
+# Build/outputs - generate these on release, not in source
+gerber/
+*.gbr
+*.drl
+*.gbrjob
+bom/
+plots/
+fab/
+pnp/
+
+# OS cruft
+.DS_Store
+Thumbs.db*.zip
 *.swp
 *.bak
 .DS_Store
