@@ -1,7 +1,4 @@
 (fp_lib_table
-  (lib (name Longracks)
-       (type KiCad)
-       (uri ${KIPRJMOD}/../libs/footprints/Longracks.pretty)
-       (options "")
-       (descr "Longracks custom footprints"))
+  (version 7)
+  (lib (name "Longracks")(type "KiCad")(uri "/home/gpeden/src/kicad-projects/libs/footprints/Longracks.pretty")(options "")(descr "Longracks custom footprints"))
 )
