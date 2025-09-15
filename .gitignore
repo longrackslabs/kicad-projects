@@ -6,6 +6,7 @@
 *.kicad_pcb-bck
 .kicad_autosave*
 *~
+*.lck
 
 # Project local cache
 fp-info-cache
