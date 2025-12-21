@@ -8,6 +8,14 @@
 *~
 *.lck
 
+# KiCad lock files
+*~*.kicad_pcb.lck
+*~*.kicad_sch.lck
+*.kicad_prl
+# KiCad autosave / backup
+_autosave-*.kicad_sch
+*_backups/
+
 # Project local cache
 fp-info-cache
 
